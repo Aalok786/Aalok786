@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 # 💫 About Me:
 🔭 Exploring the cosmos of web development, weaving together APIs into a seamless universe!  <br>👯 Let’s join forces and create magic with diverse frameworks—collaboration is key!  <br>🌱 On a journey to master JavaScript, nurturing my skills one line of code at a time.  <br>💻 Proud MERN stack developer, crafting dynamic web applications with MongoDB, Express, React, and Node.js.  <br>💬 Dive into the tech realm with me—ask anything and let’s spark some innovation!
 
@@ -20,4 +18,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aalok786&icon=0&color=0)](https://visitcount.itsvg.in)
--->
