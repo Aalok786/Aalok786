@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hi, I'm Aalok Singh, an Assistant System Engineer at TCS <br> 🔭 Exploring the cosmos of Python. I am currently focused on Generative AI and Retrieval-Augmented Generation (RAG), building practical AI applications that combine document retrieval, vector search, large language models, and user-friendly interfaces.
+🔭 Exploring the cosmos of Python. I am currently focused on Generative AI and Retrieval-Augmented Generation (RAG), building practical AI applications that combine document retrieval, vector search, large language models, and user-friendly interfaces.
 <br> I enjoy learning by building, with a focus on software architecture, problem-solving, AI application development, and enterprise technology. Currently exploring LangChain, LangGraph, Agentic AI, MCP, and Advanced RAG Systems. <br>💬 Dive into the tech realm with me—ask anything and let’s spark some innovation!
 
 
